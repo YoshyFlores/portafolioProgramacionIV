@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,a as t,t as n,F as l}from"./index-a78ba42b.js";const r={name:"InvesComponent",props:{title:{type:String,default:""},text:{type:String,default:""}}},c={class:"lead mb-4 text-start"},_=t("br",null,null,-1);function i(p,u,e,d,m,f){return a(),o(l,null,[t("h3",null,n(e.title),1),t("p",c,n(e.text),1),_],64)}const B=s(r,[["render",i]]);export{B};
