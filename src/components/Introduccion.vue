@@ -27,14 +27,20 @@ import Bloque from "./InvesComponent.vue";
         trabajado con este marco de interfaz, pero en cosas pequeñas y
         sencillas, así que se volvió un reto poder incorporar directamente un
         template en vue.js pero mediante la indagación y la practica se logro
-        trabajar con este."
-      />
-      <Bloque text="Durante las clases prácticas se desarrollaron muchas actividades,
+        trabajar con este. Durante las clases prácticas se desarrollaron muchas actividades,
       creamos una pequeña página web, así mismo aprendimos como consumir una API y realizamos 
       filtrado. Todos los cambios y actividades que realizamos las subimos a un repositorio en Github y
       posteriormente lo compartimos como evidencia que se ha trabajado en clases.
       Esencialmente, lo que se ha recabado en este portafolio es una parte de todo lo visto y aprendido
       en clases."/>
+
+      <Bloque text="Por otra parte, en el computo dos, se continuo trabajando con nuestro portafolio, pero de igual forma
+      se desarrollaron diversos temas que se presentan en dicho trabajo, se podrá observar que hemos trabajado con 
+      laravel así como también la utilización de mysql para la creación de algunas base de datos. Se ha trabajado con 
+      PHP, extrayendo lo más importante de este lenguaje de programación. Básicamente, se ha plasmado la parte esencial 
+      de todo lo realizado tanto en el primer como en el segundo computo con el objetivo de mostrar lo que se ha
+      aprendido y estudiado. Cabe mencionar que se comparte el enlace al repositorio de cada computo, donde se evidencian
+      todas las prácticas y actividades realizadas. "/>
     
   </div>
     </div>

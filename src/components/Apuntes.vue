@@ -210,6 +210,159 @@
     </div>
     </div>
 </div>
+<div class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end text-center">
+    <h2>Apuntes- Semana 7</h2>
+    </div>
+<br/>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/7.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 7</h5>
+        <p class="card-text">Parte-1</p>
+        </div>
+    </div>
+    </div>
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/77.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 7</h5>
+        <p class="card-text">Parte-2</p>
+        </div>
+    </div>
+    </div>
+</div>
+<br/>
+<br/>
+
+<div class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end text-center">
+    <h2>Apuntes- Semana 8</h2>
+    </div>
+<br/>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/8.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 8</h5>
+        <p class="card-text">Parte-1</p>
+        </div>
+    </div>
+    </div>
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/88.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 8</h5>
+        <p class="card-text">Parte-2</p>
+        </div>
+    </div>
+    </div>
+</div>
+<br/>
+<br/>
+
+<div class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end text-center">
+    <h2>Apuntes- Semana 9</h2>
+    </div>
+<br/>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/9.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 9</h5>
+        <p class="card-text">Parte-1</p>
+        </div>
+    </div>
+    </div>
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/99.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 9</h5>
+        <p class="card-text">Parte-2</p>
+        </div>
+    </div>
+    </div>
+    <div class="col">
+        <div class="card" style="width: 27rem">
+            <img src="../assets/apuntes/comp2/999.jpg" class="card-img-top" alt="...">
+            <div class="bg-info-subtle">
+            <h5 class="card-title">Semana 9</h5>
+            <p class="card-text">Parte-3</p>
+            </div>
+        </div>
+        </div>
+</div>
+<br/>
+<br/>
+
+<div class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end text-center">
+    <h2>Apuntes- Semana 10</h2>
+    </div>
+<br/>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/10.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 10</h5>
+        <p class="card-text">Parte-1</p>
+        </div>
+    </div>
+    </div>
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/101.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 10</h5>
+        <p class="card-text">Parte-2</p>
+        </div>
+    </div>
+    </div>
+</div>
+<br/>
+<br/>
+
+
+<div class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end text-center">
+    <h2>Apuntes- Semana 11</h2>
+    </div>
+<br/>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/11.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 11</h5>
+        <p class="card-text">Parte-1</p>
+        </div>
+    </div>
+    </div>
+    <div class="col">
+    <div class="card" style="width: 27rem">
+        <img src="../assets/apuntes/comp2/111.jpg" class="card-img-top" alt="...">
+        <div class="bg-info-subtle">
+        <h5 class="card-title">Semana 11</h5>
+        <p class="card-text">Parte-2</p>
+        </div>
+    </div>
+    </div>
+    <div class="col">
+        <div class="card" style="width: 27rem">
+            <img src="../assets/apuntes/comp2/1111.jpg" class="card-img-top" alt="...">
+            <div class="bg-info-subtle">
+            <h5 class="card-title">Semana 11</h5>
+            <p class="card-text">Parte-3</p>
+            </div>
+        </div>
+        </div>
+</div>
+<br/>
+<br/>
 </template>
 
 
